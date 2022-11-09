@@ -1,0 +1,15 @@
+.footer {
+    padding: 20px 10px 10px 10px;
+    background-color: rgb(12, 178, 183);
+    border: 1px solid #000000;
+    border-radius: 2px;
+    display: flex;
+}
+
+.footer div {
+    flex: 1;
+}
+
+footer.name {
+    text-align: right;
+}
